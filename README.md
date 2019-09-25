@@ -1,3 +1,3 @@
-# eloquentJavascript
+# Eloquent Javascript
 
-Exercises from the Eloquent Javascript Book
+Exercises from the Eloquent Javascript book
